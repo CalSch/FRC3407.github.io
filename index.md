@@ -1,6 +1,6 @@
-# welcome to the FRC 3407 wiki!
+# Welcome to the 2021-2022 Mounds View Wild Cards Team site!
 
-### there's not a whole lot here at the moment. More to come!
+### Site in progress, check back soon
 
 eventually we're going to add some more this, including an updated QuickStartGuide, more comprehensive recources, and debugging help for common isses.
 
