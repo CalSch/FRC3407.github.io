@@ -1,9 +1,23 @@
-# Welcome to the 2021-2022 Mounds View Wild Cards Team site!
+---
+layout: page
+title: Welcome to FRC team 3407, Wild Cards
+description: Home site of the Mounds View Wild Cards Robotic Team
+---
 
-### Site in progress, check back soon
+Home of the Mounds View FRC team 3407. 
 
-eventually we're going to add some more this, including an updated QuickStartGuide, more comprehensive recources, and debugging help for common isses.
+This site is a work-in-progress, some information may be missing.  Thank you for your patience!
 
-Possibly even more! 
+---
 
-stay tuned.
+### Upcoming Meetings
+- Saturday, 9/25, 10 am - 12 pm
+
+---
+- [FRC Resources](pages/firstoverview.html)
+- [Calender of Events](pages/calender.html)
+- [Rules and Regulations](pages/rules.html)
+- [For Students](pages/studentresources.html)
+- [For Parents](pages/parentresources.html)
+- [For Mentors](pages/mentorresources.html)
+- [Site Resources](pages/siteresources.html)
