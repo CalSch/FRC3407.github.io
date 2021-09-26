@@ -4,7 +4,7 @@ title: Team Rules and Regulations
 description: Rules and regulations for the team and mentors
 ---
 
-**Every Wild Card team member, student and mentor, must adhere to the following rules**
+**Every Wild Card team member, student or mentor, must adhere to the following rules**
 
 ## Robotics Room rules
 ### Required Attire
@@ -13,13 +13,12 @@ description: Rules and regulations for the team and mentors
 - Safety glasses
 - No dangling jewelry (earrings, bracelets, etc)
 
-### Food and Beverages Rules
+### General Rules
 - No Food and Beverages in the main lab area, only the hallway or designated tables
 - NO Peanuts or nuts of any kind in the shop
-
-### General Rules
 - No throwing ANYTHING in the room (balls, bolts, paper, etc)
-- No leaning on outlet columns
+- No leaning on tables or outlet columns
+- Do not use the Food lab tables or computer lab
 
 ## Code Development rules
 TBD.  Expect a full set of rules regarding the github codebase shortly.

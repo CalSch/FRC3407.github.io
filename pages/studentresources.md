@@ -9,7 +9,8 @@ description: Resourse to help student team members to learn
 
 ## Software Resources
 ### VS Code Setup
-VS code is the recommended IDE for software development.  You can find instructions for installation on Windows here:
+VS code is the recommended development environment for software development.  It acts as a program to check out the code, make edits, and build the project in one place.
+You can find instructions for installation on Windows here:
 
 [VS Code and WPILib Install Instructions](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 
