@@ -10,7 +10,7 @@ Currently, the schedule is Thursdays from 6:30-8 and occasional Saturdays.
 Please fill out your availability [here](https://docs.google.com/forms/d/e/1FAIpQLSe_IAz_cyWrrqte9retiTCtdDk-6BKJiKhu8U4oLphkE2KSVw/viewform)
 
 ### Upcoming Events
-**Minnesota Regional Invitation (MRI)** : October 16-17.
+**Minnesota Regional Invitation (MRI)** : October 16.
 
 An off-season, informal, mock competition in Roseville, Sat -or- Sun
 
