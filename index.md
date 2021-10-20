@@ -25,8 +25,10 @@ Please note, you are not required to be there the entire time.
 ---
 - [Calender of Events](pages/calender.html)
 - [2022 Competition Information](pages/2022Competition.html)
+- [MRI 2021 Competition](pages/2021MRI.html)
 - [Meeting Notes](pages/meetingnotes.html)
 - [Team Rules and Regulations](pages/rules.html)
+---
 - [FIRST Resources](pages/firstoverview.html)
 - [Student Resources](pages/studentresources.html)
 - [Parent Resources](pages/parentresources.html)
