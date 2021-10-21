@@ -20,6 +20,9 @@ You can find instructions for installation on Windows here:
 Currently, Java is the main coding language used, though Labview has been suggested in the past.  
 See links below for learning Java in your spare time:
 
+[Java Basics](https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)
+[Java Condensed](https://www.youtube.com/watch?v=RRubcjpTkks)
+
 [HackerRank Java courses](https://www.hackerrank.com/domains/java)
 
 [W3 Schools courses](https://www.w3schools.com/java/)
