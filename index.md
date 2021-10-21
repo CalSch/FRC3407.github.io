@@ -11,23 +11,21 @@ This site is a work-in-progress, some information may be missing.  Thank you for
 ---
 
 ### Announcements
-The team will be participating in the Minnesota Robotics Invitational (MRI) on Saturday, October 16.  
-Doors open at 7 am, matches start at 8:30 am and end around 4 pm.
-For more details, click [here](https://firebears.org/2021-minnesota-robotics-invitational/)
 
-A signup will be available soon for any students interested in attending and/or participating in the matches.  
-Please note, you are not required to be there the entire time.
+Information regarding MRI 2021, including pictures, have been uploaded here: [MRI 2021 Competition](pages/2021MRI.html)
 
 ---
 ### Upcoming Meetings
-- Thursday, 10/7, 6:30 pm - 8 pm in Room 139 
 
 ---
+### Links
+
 - [Calender of Events](pages/calender.html)
 - [2022 Competition Information](pages/2022Competition.html)
 - [MRI 2021 Competition](pages/2021MRI.html)
 - [Meeting Notes](pages/meetingnotes.html)
 - [Team Rules and Regulations](pages/rules.html)
+
 ---
 - [FIRST Resources](pages/firstoverview.html)
 - [Student Resources](pages/studentresources.html)
