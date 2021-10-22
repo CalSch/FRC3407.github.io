@@ -17,6 +17,11 @@ Information regarding MRI 2021, including pictures, have been uploaded here: [MR
 ---
 ### Upcoming Meetings
 
+Thursday (10/28/21) - 6:30 - 8:00 PM
+- MRI feedback
+- Walk through schedule
+- Robot poking time
+
 ---
 ### Links
 
