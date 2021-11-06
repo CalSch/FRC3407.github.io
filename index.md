@@ -16,7 +16,7 @@ Information regarding MRI 2021, including pictures, have been uploaded here: [MR
 
 ---
 ### Upcoming Meetings
-- [Calendar of events](pages/calendar.html)
+- [Calendar of events](pages/calender.html)
 
 ---
 ### Links
