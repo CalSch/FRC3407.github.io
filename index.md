@@ -37,16 +37,12 @@ Week 5 Competition Events - 3/30/22 - 4/3/22
 
 For a full calendar of FIRST competitions and events, click [here](https://www.firstinspires.org/robotics/frc/calendar)
 
-Other [Meetings](pages/calender.html)
-
 ---
 ### Links
 - [2022 Competition Information](pages/2022Competition.html)
 - [MRI 2021 Competition](pages/2021MRI.html)
 - [Meeting Notes](pages/meetingnotes.html)
 - [Team Rules and Regulations](pages/rules.html)
-
----
 - [FIRST Resources](pages/firstoverview.html)
 - [Student Resources](pages/studentresources.html)
 - [Parent Resources](pages/parentresources.html)
