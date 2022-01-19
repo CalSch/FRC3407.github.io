@@ -12,3 +12,7 @@ The Game Manual will continue to have weekly updates until competitions start.  
 - [Game Manual and Updates](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
 
 ### Other Resources
+
+- [AndyMark FIRST resources](https://www.andymark.com/pages/first-robotics-competition)
+- [ChiefDelphi](https://www.chiefdelphi.com/)
+	- Great resource for general questions, inspiration for build, pit area layout, drivers station, etc
