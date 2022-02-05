@@ -26,13 +26,13 @@ Upcoming Weekly meetings
 ---
 ### Competition Dates
 
-Week 0 - 2/19/22
+Week 0 - 2/20/22
 - Kickoff for 2022 competitions
 
 Week 1 Competition Events - 3/2/22 - 3/6/22
 - First week of official competitions
 
-Week 5 Competition Events - 3/30/22 - 4/3/22
+Week 6 Competition Events - 4/6/22 - 4/9/22
 - First competition for team 3407
 
 For a full calendar of FIRST competitions and events, click [here](https://www.firstinspires.org/robotics/frc/calendar)
