@@ -14,7 +14,14 @@ Home of the Mounds View FRC team 3407.
 ---
 ### Upcoming Meetings
 
-Hope you had a great spring break!
+Week of 2/21 Meetings
+
+- Tuesday, 2/22, 6:30 - 8:30 pm
+- Wednesday, 2/23, 6:30 - 8:30 pm
+- Thursday, 2/24, 6:30 - 8:30 pm
+- Saturday, 2/26, 10 am - 2:30 pm
+
+All team member welcome at each meeting!  Full steam ahead for Week 6!
 
 ---
 ### Competition Dates
