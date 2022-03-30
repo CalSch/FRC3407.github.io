@@ -14,12 +14,12 @@ Home of the Mounds View FRC team 3407.
 ---
 ### Upcoming Meetings
 
-Week of 2/21 Meetings
+Week of 3/28 Meetings
 
-- Tuesday, 2/22, 6:30 - 8:30 pm
-- Wednesday, 2/23, 6:30 - 8:30 pm
-- Thursday, 2/24, 6:30 - 8:30 pm
-- Saturday, 2/26, 10 am - 2:30 pm
+- Tuesday, 3/29, 6:30 - 8:30 pm
+- Wednesday, 3/30, 6:30 - 8:30 pm
+- Thursday, 3/31, 6:30 - 8:30 pm
+- Saturday, 4/2, 10 am - 2:30 pm
 
 All team member welcome at each meeting!  Full steam ahead for Week 6!
 
@@ -28,7 +28,7 @@ All team member welcome at each meeting!  Full steam ahead for Week 6!
 
 #### Week 6: Minnesota 10,000 Lakes Regional
 
-- Wednesday, 4/6/22  through Saturday, 4/9/22
+- Wednesday, 4/6/22,  through Saturday, 4/9/22
 - Full event site, including twich links, [here](https://frc-events.firstinspires.org/2022/MNMI)
 - [Day of Schedule](https://firstuppermidwest.org/minneapolis-regionals/minneapolis-schedule/)
 
