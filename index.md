@@ -16,17 +16,16 @@ Home of the Mounds View FRC team 3407.
 
 Week of 3/28 Meetings
 
-- Tuesday, 3/29, 6:30 - 8:30 pm
-- Wednesday, 3/30, 6:30 - 8:30 pm
-- Thursday, 3/31, 6:30 - 8:30 pm
-- Saturday, 4/2, 10 am - 2:30 pm
-
-All team member welcome at each meeting!  Full steam ahead for Week 6!
+- Wednesday, 4/20, 6:30 - 8:30 pm
+- Thursday, 4/21, 6:30 - 8:30 pm
+- Saturday, 4/23, 10 am - 12pm (potentially 12-2, see email)
 
 ---
 ### Competition Dates
 
 #### Week 6: Minnesota 10,000 Lakes Regional
+
+Great Job, everyone! 
 
 - Wednesday, 4/6/22,  through Saturday, 4/9/22
 - Full event site, including twich links, [here](https://frc-events.firstinspires.org/2022/MNMI)
