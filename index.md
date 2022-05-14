@@ -9,16 +9,22 @@ Home of the Mounds View FRC team 3407.
 ---
 ### Announcements
 
-2022 Rapid React Kickoff was 1/8/22, see rulebook and videos [here](pages/2022Competition.html)
+8th grade Activity Fair at MVHS : Tuesday, May 17 2022, 9:30 AM - 11:15 AM
+- Volunteers needed, email Lisa
+
+End of year Celebration! : Saturday, May 21, 2022, 10 AM - 2: pm
+- MVHS Cafeteria and Room 139
+- Potluck and open house.  Bring something yummy and see the robot in action!
+- Families welcome!
+- Potential mentors ESPECIALLY welcome!
 
 ---
-### Upcoming Meetings
+### Weekly Meetings
 
-Week of 3/28 Meetings
-
-- Wednesday, 4/20, 6:30 - 8:30 pm
-- Thursday, 4/21, 6:30 - 8:30 pm
-- Saturday, 4/23, 10 am - 12pm (potentially 12-2, see email)
+- Wednesday, 6:30 - 8:30 pm
+- Thursday, 6:30 - 8:30 pm
+- Saturday,  10 am - 12 pm *and* 12 pm - 2 pm
+- See weekly emails for changes and details
 
 ---
 ### Competition Dates
