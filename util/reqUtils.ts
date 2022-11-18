@@ -1,9 +1,13 @@
-const requrl = "http://localhost:3000"
+// const defaultReqUrl = "http://localhost:3000"
 
-const proFetch = async (url: string, init?: RequestInit): Promise<Response> => {
+// const proFetch = async (url: string, init?: RequestInit): Promise<Response> => {
+//     let thisReq = ""
 
-    let thisReq = requrl
-    return fetch(thisReq, init)
-}
+//     if ()
 
-export { proFetch }
+//     return fetch(thisReq, init)
+// }
+
+// export { proFetch }
+
+export {}
