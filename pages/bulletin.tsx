@@ -1,17 +1,27 @@
 import { InferGetServerSidePropsType } from 'next'
 import { GetServerSideProps } from 'next'
-import { Bullet } from '../typings'
+import { IBullet } from '../typings'
 
 type Data = { bullets: string[] }
 
-export const getServerSideProps: GetServerSideProps<{ bullets: Bullet[] }> = async () => {
+export const getServerSideProps: GetServerSideProps<{ bullets: IBullet[] }> = async () => {
 
-  const res = await fetch("http://localhost:3000/api/fetchbulletin")
+  const res = await fetch("http://localhost:3000/api/bulletins/fetch", {
+    method: "PUT",
+    body: JSON.stringify({
+      bullet: {
+        name: "hi",
+        message: "hi",
+        author: "Brady",
+        date: new Date().toISOString()
+      }
+    })
+  })
   const data = await res.json()
 
   return {
     props: {
-      bullets: data.bullets as Bullet[],
+      bullets: data as IBullet[],
     },
   }
 }
